@@ -1,0 +1,22 @@
+{
+  "base": "Task1_grouped_data_output",
+  "data": "Preprocessed-Data/WDI_cleaned_1975_2023.csv",
+  "periods": [
+    "2000\u20132009",
+    "2010\u20132014",
+    "2015\u20132019"
+  ],
+  "focus_countries": [
+    "India",
+    "China",
+    "Germany"
+  ],
+  "generated": [
+    "sankey_transitions.html",
+    "slope_attribute_importance.html",
+    "radar_clusterC0.html",
+    "radar_clusterC1.html",
+    "radar_clusterC2.html",
+    "pca_timeline.html"
+  ]
+}
