@@ -1,0 +1,4 @@
+cluster,top_positive,top_negative
+0,NPLs(+0.20z); Unemployment(+0.12z); GDP_Growth(+0.02z),GDP(-0.55z); Credit_to_Private_Sector(-0.49z); Debt(-0.16z)
+1,GDP(+0.96z); Credit_to_Private_Sector(+0.86z); Debt(+0.27z),NPLs(-0.34z); Unemployment(-0.20z); Inflation(-0.16z)
+2,Inflation(+10.53z); Debt(-0.10z); NPLs(-0.23z),GDP_Growth(-2.50z); Credit_to_Private_Sector(-0.78z); GDP(-0.35z)
