@@ -1,5 +1,5 @@
 # ==============================================================
-#  WDI Preprocessing Script (Nishanth – Economic Data Analysis)
+#  WDI Preprocessing Script 
 # ==============================================================
 
 import pandas as pd
